@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="" />
+    <list id="8683d23e-72b3-4147-9dd7-62f7018b3f89" name="Revert &quot;New dataset Still contains an error..&quot;" comment="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Artem Tkachuk" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QIunsB2AYXy4glxjfcUAnv1hM1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/legacy" />
+      <recent name="$PROJECT_DIR$/data/train" />
+      <recent name="$PROJECT_DIR$/data/test" />
+      <recent name="$PROJECT_DIR$/data/readme" />
+      <recent name="$PROJECT_DIR$/graphing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/readme" />
+      <recent name="$PROJECT_DIR$/data/train" />
+      <recent name="$PROJECT_DIR$/data/test" />
+      <recent name="$PROJECT_DIR$/util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="SPECT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="neural-network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/normalize" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/normalize/SPECT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="neural-network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="neural-network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.SPECT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SPECT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="" />
+      <created>1567470601730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567470601730</updated>
+      <workItem from="1567470606533" duration="1368000" />
+      <workItem from="1567472493616" duration="17013000" />
+      <workItem from="1567600897429" duration="14048000" />
+      <workItem from="1567653131796" duration="48000" />
+      <workItem from="1567747742585" duration="8523000" />
+      <workItem from="1567759668863" duration="7132000" />
+      <workItem from="1567837986783" duration="2139000" />
+      <workItem from="1567840540997" duration="418000" />
+      <workItem from="1568146257078" duration="48000" />
+      <workItem from="1568146316371" duration="2000" />
+      <workItem from="1571357195034" duration="361000" />
+      <workItem from="1571441528510" duration="1527000" />
+      <workItem from="1571443108419" duration="504000" />
+      <workItem from="1571528362966" duration="103000" />
+      <workItem from="1571713636947" duration="39000" />
+      <workItem from="1571713916019" duration="553000" />
+      <workItem from="1571716131969" duration="1269000" />
+      <workItem from="1571729485293" duration="1613000" />
+      <workItem from="1571736065341" duration="2346000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
+      <created>1567471606436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567471606436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Launched first time, but the accuracy is bad and the log likelihood does not change. Must contain an error...">
+      <created>1567597320769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567597320769</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Is either too complicated model for this, or wrong..">
+      <created>1567600748390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567600748390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Minor changes">
+      <created>1567601062664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567601062664</updated>
+    </task>
+    <task id="LOCAL-00005" summary="WIP">
+      <created>1567632613744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567632613744</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Plan">
+      <created>1567632744655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567632744655</updated>
+    </task>
+    <task id="LOCAL-00007" summary="works, plots, but there is an error in the process of training somewhere.... tired of this">
+      <created>1567646162512</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567646162512</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Loop version">
+      <created>1567753119261</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567753119261</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New dataset&#10;Still contains an error..">
+      <created>1567755648594</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567755648594</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae">
+      <created>1567755730846</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567755730846</updated>
+    </task>
+    <task id="LOCAL-00011" summary="error somewhere">
+      <created>1567756027756</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567756027756</updated>
+    </task>
+    <task id="LOCAL-00012" summary="error">
+      <created>1567756279472</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567756279472</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Found a mathematical error">
+      <created>1567837858253</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1567837858253</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Without the hidden layer works like logistic, so it's all right. The error occurs with the hidden layer">
+      <created>1567838736508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1567838736508</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Also works if replace with h">
+      <created>1567838755295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567838755295</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Found new data sets and made some changes to the structure">
+      <created>1571738244913</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571738244913</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.test" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="logistic" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability." />
+    <MESSAGE value="Launched first time, but the accuracy is bad and the log likelihood does not change. Must contain an error..." />
+    <MESSAGE value="Is either too complicated model for this, or wrong.." />
+    <MESSAGE value="Minor changes" />
+    <MESSAGE value="WIP" />
+    <MESSAGE value="Plan" />
+    <MESSAGE value="works, plots, but there is an error in the process of training somewhere.... tired of this" />
+    <MESSAGE value="Loop version" />
+    <MESSAGE value="New dataset&#10;Still contains an error.." />
+    <MESSAGE value="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
+    <MESSAGE value="error somewhere" />
+    <MESSAGE value="error" />
+    <MESSAGE value="Found a mathematical error" />
+    <MESSAGE value="Without the hidden layer works like logistic, so it's all right. The error occurs with the hidden layer" />
+    <MESSAGE value="Also works if replace with h" />
+    <MESSAGE value="Found new data sets and made some changes to the structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Found new data sets and made some changes to the structure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/neural_network$main.coverage" NAME="main Coverage Results" MODIFIED="1571737977678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/neural_network$SPECT.coverage" NAME="SPECT Coverage Results" MODIFIED="1571737301011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/normalize" />
+  </component>
+</project>
