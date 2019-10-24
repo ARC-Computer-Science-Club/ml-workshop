@@ -14,7 +14,7 @@ from scipy.special import expit
 from util.readFile import readFile
 from util.logLikelihood import logLikelihood
 from util.sigmoid import sigmoid
-from graph.graph import init, replot
+from graphing.graph import init, replot
 
 def train(fn, nTimes, rate, mh):
 
@@ -70,10 +70,10 @@ def train(fn, nTimes, rate, mh):
                 thetas_h[i][j] += rate * gradient_h[i][j]
 
         LL = logLikelihood(labels, y_hats)
-        print(LL)
+        # print(LL)
         replot(fig, ax, line, nTimes, xdata, ydata, k, LL)
 
 
-    plt.savefig(f'graph/pics/{fn}.png')
+    plt.savefig(f'graphing/pics/neural/{fn}.png')
 
     return (thetas_h, thetas_y_hat, mh)

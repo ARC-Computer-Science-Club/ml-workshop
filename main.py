@@ -4,9 +4,13 @@
 '''
 
 from components.neural import neural
+from components.logistic import logistic
 
 def main():
     neural()
+    logistic()
+
+
 
 if __name__ == '__main__':
     main()

@@ -8,12 +8,13 @@ import numpy as np
 import matplotlib; matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt;  plt.ion()
 from scipy.special import expit
-from util.util import readFile, logLikelihood
+from util.readFile import readFile
+from util.logLikelihood import logLikelihood
 from graphing.graph import init, replot
 
 
 def train(fn, nTimes, rate):
-    fileName = f'datasets/train/{fn}-train.txt'
+    fileName = f'data/train/{fn}.train'
     data, n, m = readFile(fileName, logistic=True)
 
     features = data[:, :-1]  # array of training examples
@@ -31,6 +32,6 @@ def train(fn, nTimes, rate):
         LL = logLikelihood(labels, y_hats)
         replot(fig, ax, line, nTimes, xdata, ydata, k, LL)
 
-    plt.savefig(f'graphing/logistic/{fn}.png')
+    plt.savefig(f'graphing/pics/logistic/{fn}.png')
 
     return thetas

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="Found new data sets and made some changes to the structure" />
+    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="Found new data sets and made some changes to the structure">
+      <change afterPath="$PROJECT_DIR$/components/logistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphing/pics/neural/SPECT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/logistic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/neural.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/neural.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SampleData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/SampleData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing/graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/pics/SPECT.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphing/pics/logistic/SPECT.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/pics/netflix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/oldcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/legacy/oldcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/logistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/neural.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/logistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/slowWithLoops/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/slowWithLoops/neural.py" afterDir="false" />
+    </list>
     <list id="8683d23e-72b3-4147-9dd7-62f7018b3f89" name="Revert &quot;New dataset Still contains an error..&quot;" comment="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +65,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1QIunsB2AYXy4glxjfcUAnv1hM1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -59,22 +82,22 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/train" />
+      <recent name="$PROJECT_DIR$/util" />
+      <recent name="$PROJECT_DIR$/graphing/pics/logistic" />
+      <recent name="$PROJECT_DIR$/training/slowWithLoops" />
+      <recent name="$PROJECT_DIR$/legacy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/training" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/data/readme" />
       <recent name="$PROJECT_DIR$/data/train" />
       <recent name="$PROJECT_DIR$/data/test" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/training/slowWithLoops" />
-      <recent name="$PROJECT_DIR$/legacy" />
-      <recent name="$PROJECT_DIR$/data/train" />
-      <recent name="$PROJECT_DIR$/data/test" />
-      <recent name="$PROJECT_DIR$/data/readme" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -202,6 +225,7 @@
       <workItem from="1571881603710" duration="14000" />
       <workItem from="1571881694031" duration="339000" />
       <workItem from="1571882682269" duration="277000" />
+      <workItem from="1571901043973" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
       <created>1567471606436</created>
@@ -374,6 +398,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability." />
     <MESSAGE value="Launched first time, but the accuracy is bad and the log likelihood does not change. Must contain an error..." />
     <MESSAGE value="Is either too complicated model for this, or wrong.." />
@@ -406,5 +431,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/neural_network$main.coverage" NAME="main Coverage Results" MODIFIED="1571775186678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/neural_network$SPECT.coverage" NAME="SPECT Coverage Results" MODIFIED="1571737301011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/normalize" />
+    <SUITE FILE_PATH="coverage/ml_workshop$main.coverage" NAME="main Coverage Results" MODIFIED="1571903171674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -61,5 +61,5 @@ def test(fn, thetas):
     report += f'Overall: tested {n}, correctly classified {guessed.sum()}\n ' \
               f'Accuracy: {float(guessed.sum()) / n}\n\n'
 
-    of = open('results/results.txt', 'a+')
+    of = open('results/neural.txt', 'a+')
     of.write(report)
