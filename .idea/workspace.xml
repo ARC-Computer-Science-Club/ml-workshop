@@ -53,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/training" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -160,8 +160,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SPECT" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.SPECT" />
     </list>
     <recent_temporary>
       <list>
@@ -204,6 +204,7 @@
       <workItem from="1571876818707" duration="1501000" />
       <workItem from="1571881603710" duration="14000" />
       <workItem from="1571881694031" duration="339000" />
+      <workItem from="1571882682269" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
       <created>1567471606436</created>
