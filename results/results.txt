@@ -1,8 +1,12 @@
-
-
 For "SPECT" dataset:
 Class 0.0: tested 103, correctly classified 81
 Class 1.0: tested 84, correctly classified 46
+Overall: tested 187, correctly classified 127
+Accuracy: 0.679144385026738
+
+For "SPECT" dataset:
+Class 0.0: tested 103, correctly classified 84
+Class 1.0: tested 84, correctly classified 43
 Overall: tested 187, correctly classified 127
  Accuracy: 0.679144385026738
 

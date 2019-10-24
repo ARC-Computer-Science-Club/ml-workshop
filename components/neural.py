@@ -3,8 +3,8 @@
     Ⓒ Artem Tkachuk
 '''
 
-from training.train import train
-from testing.test import test
+from training.slowWithLoops.neural import train
+from testing.neural import test
 
 def neural():
 

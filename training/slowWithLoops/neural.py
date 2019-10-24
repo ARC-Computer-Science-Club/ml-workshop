@@ -3,6 +3,9 @@
     Ⓒ Artem Tkachuk
 '''
 
+# TODO refactor this code
+#TODO https://stackoverflow.com/questions/14290113/git-pushing-code-to-two-remotes
+
 import matplotlib; matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt;  plt.ion()
 import numpy as np
@@ -22,8 +25,8 @@ def train(fn, nTimes, rate, mh):
     labels = data[:, -1]                 #vector of corresponding labels
     y_hats = np.empty(labels.shape)      #vector of predictions
 
-    thetas_h = np.random.normal(0, math.sqrt(1 / mx), ((mx, mh)))       #parameters for hidden layer
-    thetas_y_hat = np.random.normal(0, math.sqrt(1 / mh), (mh))         #parameters for hidden layer
+    thetas_h = np.random.normal(0, math.sqrt(1 / mx), ((mx, mh)))    #parameters for hidden layer
+    thetas_y_hat = np.random.normal(0, math.sqrt(1 / mh), (mh))      #parameters for hidden layer
 
 
     fig, ax, xdata, ydata, line = init(fn)     #plotting the log likelihood while training
@@ -74,8 +77,3 @@ def train(fn, nTimes, rate, mh):
     plt.savefig(f'graph/pics/{fn}.png')
 
     return (thetas_h, thetas_y_hat, mh)
-
-# TODO loop for many h layers here? Or a matrix thing is possible with multiple layers too? Yes! 3d theta where i-th grid is current h
-# TODO make it a vector of size n, if there are n hidden layers in the network
-# TODO: reassure I underatand why does this work? (lines 2,3 of the body of the loop)
-# TODO: Neural networks learns the best number of neurons and layers that give the best accuracy??
