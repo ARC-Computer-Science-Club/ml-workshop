@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="">
+    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="Found new data sets and made some changes to the structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/neural.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/pics/SPECT.png" beforeDir="false" afterPath="$PROJECT_DIR$/graph/pics/SPECT.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/results.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/guide.ipynb" afterDir="false" />
     </list>
     <list id="8683d23e-72b3-4147-9dd7-62f7018b3f89" name="Revert &quot;New dataset Still contains an error..&quot;" comment="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -164,8 +160,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.SPECT" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -207,7 +203,7 @@
       <workItem from="1571875680996" duration="424000" />
       <workItem from="1571876818707" duration="1501000" />
       <workItem from="1571881603710" duration="14000" />
-      <workItem from="1571881694031" duration="68000" />
+      <workItem from="1571881694031" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
       <created>1567471606436</created>
