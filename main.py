@@ -7,10 +7,8 @@ from components.neural import neural
 from components.logistic import logistic
 
 def main():
-    neural()
     logistic()
-
-
+    # neural()      #Will uncomment when done :)
 
 if __name__ == '__main__':
     main()

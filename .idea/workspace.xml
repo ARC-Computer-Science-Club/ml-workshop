@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="Found new data sets and made some changes to the structure">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/logistic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/logistic.py" afterDir="false" />
+    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <list id="8683d23e-72b3-4147-9dd7-62f7018b3f89" name="Revert &quot;New dataset Still contains an error..&quot;" comment="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -212,7 +209,7 @@
       <workItem from="1571881603710" duration="14000" />
       <workItem from="1571881694031" duration="339000" />
       <workItem from="1571882682269" duration="277000" />
-      <workItem from="1571901043973" duration="2896000" />
+      <workItem from="1571901043973" duration="3081000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
       <created>1567471606436</created>
@@ -326,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571738244913</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".gitignore">
+      <created>1571904004310</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571904004310</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +406,8 @@
     <MESSAGE value="Without the hidden layer works like logistic, so it's all right. The error occurs with the hidden layer" />
     <MESSAGE value="Also works if replace with h" />
     <MESSAGE value="Found new data sets and made some changes to the structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Found new data sets and made some changes to the structure" />
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
