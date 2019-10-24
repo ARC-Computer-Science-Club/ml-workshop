@@ -4,3 +4,4 @@ data/readme/netflix.names
 data/test/netflix.test
 
 data/train/netflix.train
+.ipynb_checkpoints
