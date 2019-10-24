@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="Found new data sets and made some changes to the structure">
-      <change afterPath="$PROJECT_DIR$/components/logistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphing/pics/neural/SPECT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/logistic.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/neural.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/neural.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/SampleData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/SampleData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing/graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/pics/SPECT.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphing/pics/logistic/SPECT.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/pics/netflix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy/oldcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/legacy/oldcode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/results.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testing/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/logistic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/neural.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/logistic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/slowWithLoops/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/slowWithLoops/neural.py" afterDir="false" />
     </list>
     <list id="8683d23e-72b3-4147-9dd7-62f7018b3f89" name="Revert &quot;New dataset Still contains an error..&quot;" comment="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -225,7 +212,7 @@
       <workItem from="1571881603710" duration="14000" />
       <workItem from="1571881694031" duration="339000" />
       <workItem from="1571882682269" duration="277000" />
-      <workItem from="1571901043973" duration="2601000" />
+      <workItem from="1571901043973" duration="2896000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
       <created>1567471606436</created>

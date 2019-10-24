@@ -5,3 +5,6 @@ data/test/netflix.test
 
 data/train/netflix.train
 .ipynb_checkpoints
+.ipynb
+*__pycache__
+*.DS_Store

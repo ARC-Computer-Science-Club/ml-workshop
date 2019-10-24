@@ -1,4 +1,4 @@
-# Implementation of Logistic Regression algorithm for CS109 @ Stanford
+# Implementation of Logistic Regression algorithm
 # Ⓒ Artem Tkachuk
 
 import numpy as np
