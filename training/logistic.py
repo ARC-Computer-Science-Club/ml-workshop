@@ -14,7 +14,7 @@ from graphing.graph import init, replot
 
 def train(fn, nTimes, rate):
     fileName = f'data/train/{fn}.train'
-    data, n, m = readFile(fileName, logistic=True)
+    data, n, m = readFile(fileName)
 
     features = data[:, :-1]  # array of training examples
     labels = data[:, -1]  # array of corresponding labels

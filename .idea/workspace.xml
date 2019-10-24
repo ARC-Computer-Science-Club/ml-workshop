@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="" />
+    <list default="true" id="69cae430-8087-480b-b99b-aecf3cd41b9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graphing/pics/logistic/SPECT-slow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/logistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/normalize/SPECT.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/normalize/SPECT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logistic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/logistic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/logistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/neural.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/logistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/slow/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/slow/logistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/readFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/readFile.py" afterDir="false" />
+    </list>
     <list id="8683d23e-72b3-4147-9dd7-62f7018b3f89" name="Revert &quot;New dataset Still contains an error..&quot;" comment="Revert &quot;New dataset Still contains an error..&quot;&#10;&#10;This reverts commit 6fa020ae" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +218,7 @@
       <workItem from="1571881603710" duration="14000" />
       <workItem from="1571881694031" duration="339000" />
       <workItem from="1571882682269" duration="277000" />
-      <workItem from="1571901043973" duration="3353000" />
+      <workItem from="1571901043973" duration="4673000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. Will be working on this throughout the next 2 weeks before we start the workshop series in the Computer Science Club. Currently working on math and scalability.">
       <created>1567471606436</created>
@@ -409,6 +420,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/training/slow/logistic.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -421,6 +439,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/neural_network$main.coverage" NAME="main Coverage Results" MODIFIED="1571775186678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/neural_network$SPECT.coverage" NAME="SPECT Coverage Results" MODIFIED="1571737301011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/normalize" />
-    <SUITE FILE_PATH="coverage/ml_workshop$main.coverage" NAME="main Coverage Results" MODIFIED="1571903171674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ml_workshop$main.coverage" NAME="main Coverage Results" MODIFIED="1571905625423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

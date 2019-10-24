@@ -1,5 +1,7 @@
-# Implementation of Logistic Regression algorithm
-# Ⓒ Artem Tkachuk
+'''
+    Implementation of Logistic Regression algorithm
+    Ⓒ Artem Tkachuk
+'''
 
 import numpy as np
 from util.readFile import readFile
@@ -9,7 +11,7 @@ from scipy.special import expit
 def test(fn, thetas):
 
     fileName = f'data/test/{fn}.test'
-    tests, n, _ = readFile(fileName, logistic=True)
+    tests, n, _ = readFile(fileName)
 
     features = tests[:, :-1]    # array of training examples
     labels = tests[:, -1]       # array of corresponding labels
@@ -42,4 +44,4 @@ def test(fn, thetas):
 
     of = open('results/logistic.txt', 'a+')
     of.write(report)
-    # print(report)     # can also write to console
+    # print(report)     # can also write to console if neede

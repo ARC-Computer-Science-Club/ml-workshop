@@ -3,7 +3,8 @@
     Ⓒ Artem Tkachuk
 '''
 
-from training.logistic import train
+from training.slow.logistic import train
+#from training.logistic import train
 from testing.logistic import test
 
 def logistic():

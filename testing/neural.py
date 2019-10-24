@@ -12,7 +12,7 @@ from scipy.special import expit
 def test(fn, thetas):
 
     fileName = f'data/test/{fn}.test'
-    tests, n, mx = readFile(fileName, logistic=True)
+    tests, n, mx = readFile(fileName)
 
     features = tests[:, :-1]  # array of training examples
     labels = tests[:, -1]  # array of corresponding labels

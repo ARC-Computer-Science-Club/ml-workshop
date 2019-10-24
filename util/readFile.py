@@ -1,7 +1,7 @@
 import numpy as np
 import io
 
-def readFile(fileName, mode='r', logistic = False):
+def readFile(fileName, mode='r'):
     fileData = open(fileName, mode)
     m = int(fileData.readline()) + 1  # number of features + theta0
     n = int(fileData.readline())      # number of training examples

@@ -4,3 +4,9 @@ Class 1: tested 84, Correctly classified: 43
 Overall: tested 187, correctly classified 116
 Accuracy: 0.6203208556149733
 
+For "SPECT" dataset:
+Class 0: tested 103, Correctly classified: 73
+Class 1: tested 84, Correctly classified: 43
+Overall: tested 187, correctly classified 116
+Accuracy: 0.6203208556149733
+
